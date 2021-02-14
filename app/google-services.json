@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "10826693821",
+    "project_id": "atomlogin-d3218",
+    "storage_bucket": "atomlogin-d3218.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10826693821:android:c3ae39e498f41e9adb0bd4",
+        "android_client_info": {
+          "package_name": "com.internshala.atomlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10826693821-covgqhs43qae46996hccte7upae17ssd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw5Fww7kZaPjJKrPVkz1UYTn3-UZ143GE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10826693821-covgqhs43qae46996hccte7upae17ssd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
